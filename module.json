@@ -1,0 +1,8 @@
+{
+    "disableAutoUpdate": false,
+    "name": "MakeCsBombObvious",
+    "author": "TerableCoder",
+    "homepage": "https://github.com/TerableCoder/MakeCsBombObvious",
+    "description": "Bombers grow BIG",
+    "servers": ["https://raw.githubusercontent.com/TerableCoder/MakeCsBombObvious/master/"]
+}

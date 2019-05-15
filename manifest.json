@@ -1,0 +1,12 @@
+{
+	"files": {
+		"index.js": "a6e06cb98c69484c61316b847d6c3e268a22318bf891beb3842f4e5f668daaef",
+		"module.json": "e45f07459438b5e1412cd4607cae2a0fd2593983fb9e6c787353e6c4b0e4f403",
+		"README.md": "0d7114b7194417fc3a21f66b91b992722710e0371f3ba7092748780380ef9a0e"
+	},
+	"defs": {
+		"S_ABNORMALITY_BEGIN": 3,
+		"S_ABNORMALITY_REFRESH": 1,
+		"S_ABNORMALITY_END": 1
+	}
+}
